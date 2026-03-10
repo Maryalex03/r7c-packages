@@ -54,8 +54,8 @@
 					"modules/macros_ide/resources/store/screenshots/screen_3.png"
 				],
 				"icons" : {
-					"light" : "modules/macros_ide/resources/store/icons/icon.png",
-					"dark"  : "modules/macros_ide/resources/store/icons/icon.png"
+					"light" : "modules/macros_ide/resources/light/icon.png",
+					"dark"  : "modules/macros_ide/resources/dark/icon.png"
 				},
 				"categories": ["specAbilities", "work", "recommended", "devTools"]
 			}
