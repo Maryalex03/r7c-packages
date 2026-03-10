@@ -159,12 +159,26 @@
 		if (normalized.logging)
 			delete normalized.logging;
 
+		// Remove marketplace runtime fields before sending config to editor host.
+		delete normalized.url;
+		delete normalized.baseUrl;
+		delete normalized.configUrl;
+		delete normalized.languages;
+		delete normalized.changelog;
+		delete normalized._changelogLoading;
+		delete normalized.rating;
+		delete normalized.discussionUrl;
+		delete normalized.bHasUpdate;
+
 		if (Array.isArray(normalized.variations)) {
 			normalized.variations = normalized.variations.map(function(variation) {
 				if (!variation || typeof variation !== 'object')
 					return variation;
 				if (variation.logging)
 					delete variation.logging;
+				delete variation.rating;
+				delete variation.discussionUrl;
+				delete variation.bHasUpdate;
 				return variation;
 			});
 		}
