@@ -3,7 +3,7 @@
   "plugins": [
     {
       "name": "Plugin One",
-      "description": "{r7} Plugin Manager — настольный менеджер плагинов для экосистемы R7/ONLYOFFICE.",
+      "description": "{r7} Plugin Manager \u2014 настольный менеджер плагинов для экосистемы R7/ONLYOFFICE.",
       "price": "Free",
       "image": "",
       "link": "https://github.com/r7-consult/r7c"
@@ -17,4 +17,5 @@
     }
   ]
 }
+
 
