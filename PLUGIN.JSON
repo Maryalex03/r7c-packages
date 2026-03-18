@@ -1,0 +1,19 @@
+{
+  "title": "Магазин плагинов",
+  "plugins": [
+    {
+      "name": "Plugin One",
+      "description": "{r7} Plugin Manager — настольный менеджер плагинов для экосистемы R7/ONLYOFFICE. 
+      "price": "Free",
+      "image": "",
+      "link": "https://github.com/r7-consult/r7c"
+    },
+    {
+      "name": "Plugin Two",
+      "description": "Описание второго плагина",
+      "price": "Free",
+      "image": "",
+      "link": "https://github.com/r7-consult/r7c_chatLLM"
+    }
+  ]
+}
