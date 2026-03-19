@@ -5,7 +5,7 @@
       "name": "Plugin Manager",
       "description": "Менеджер плагинов для экосистемы R7/ONLYOFFICE",
       "price": "Free",
-      "image": "https://picsum.photos/300/150",
+      "image": "https://raw.githubusercontent.com/Maryalex03/r7c-packages/main/images/plugin1.png",
       "link": "https://github.com/r7-consult/r7c",
       "category": "Инструменты",
       "rating": 5
@@ -14,7 +14,7 @@
       "name": "Chat LLM",
       "description": "Интеграция с LLM для работы с чатами",
       "price": "Free",
-      "image": "https://picsum.photos/300/150",
+      "image": "https://raw.githubusercontent.com/Maryalex03/r7c-packages/main/images/plugin1.png",
       "link": "https://github.com/r7-consult/r7c_chatLLM",
       "category": "AI",
       "rating": 4
