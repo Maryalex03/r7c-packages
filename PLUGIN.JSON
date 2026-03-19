@@ -2,20 +2,22 @@
   "title": "Магазин плагинов",
   "plugins": [
     {
-      "name": "Plugin One",
-      "description": "{r7} Plugin Manager \u2014 настольный менеджер плагинов для экосистемы R7/ONLYOFFICE.",
+      "name": "Plugin Manager",
+      "description": "Менеджер плагинов для экосистемы R7/ONLYOFFICE",
       "price": "Free",
-      "image": "",
-      "link": "https://github.com/r7-consult/r7c"
+      "image": "https://via.placeholder.com/300x150",
+      "link": "https://github.com/r7-consult/r7c",
+      "category": "Инструменты",
+      "rating": 5
     },
     {
-      "name": "Plugin Two",
-      "description": "Описание второго плагина",
+      "name": "Chat LLM",
+      "description": "Интеграция с LLM для работы с чатами",
       "price": "Free",
-      "image": "",
-      "link": "https://github.com/r7-consult/r7c_chatLLM"
+      "image": "https://via.placeholder.com/300x150",
+      "link": "https://github.com/r7-consult/r7c_chatLLM",
+      "category": "AI",
+      "rating": 4
     }
   ]
 }
-
-
